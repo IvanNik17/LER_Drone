@@ -1,0 +1,1 @@
+killgphoto.sh has to be in the same folder as the gphoto program and it needs chmod +x killgphoto.sh run on it before it will execute
